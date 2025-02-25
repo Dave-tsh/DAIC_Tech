@@ -503,7 +503,16 @@
     color: #0056b3;
     cursor: pointer;
   }
-  
+
+  .serve-question {
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+    cursor: pointer;
+  }
+  .serve-question:hover {
+    text-decoration: underline;
+  }
   .faq-answer {
     font-size: 16px;
     color: #555;
